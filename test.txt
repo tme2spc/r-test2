@@ -1,0 +1,2 @@
+# r-test2
+make remote storage
